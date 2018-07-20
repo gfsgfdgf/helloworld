@@ -6,6 +6,6 @@ public class FirstMain {
     public static void main(String[] args) {
         System.out.println("FirstWorld");
         SecondWorld sw = new SecondWorld();
-
+        System.out.println("FirstWorld Second Output");
     }
 }
